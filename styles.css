@@ -2,7 +2,6 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #ccc;
-  text-align: center;
   margin: 0;
   padding: 20px;
 }
@@ -14,7 +13,6 @@ h1, h2 {
 .playlist-box {
   background-color: #fff;
   border: 1px solid black;
-  width: 300px;
   margin: 20px auto;
   padding: 10px;
   border-radius: 6px;
@@ -39,9 +37,10 @@ a:hover {
 }
 
 .media-box {
+  
   background-color: #fff;
   border: 1px solid black;
-  width: 500px;
+  width: 400px;
   margin: 20px auto;
   padding: 10px;
   border-radius: 6px;
