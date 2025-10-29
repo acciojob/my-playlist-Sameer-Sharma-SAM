@@ -1,1 +1,48 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ccc;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.playlist-box {
+  background-color: #fff;
+  border: 1px solid black;
+  width: 300px;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
+a {
+  text-decoration-line: none;
+  color: black;
+}
+
+a:hover {
+  color: blue;
+}
+
+.media-box {
+  background-color: #fff;
+  border: 1px solid black;
+  width: 500px;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 6px;
+}
